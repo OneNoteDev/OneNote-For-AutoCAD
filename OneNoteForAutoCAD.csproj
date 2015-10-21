@@ -177,12 +177,12 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ACDlls\AcCoreMgd.dll" />
-    <Content Include="ACDlls\AcCui.dll" />
-    <Content Include="ACDlls\AcDbMgd.dll" />
-    <Content Include="ACDlls\AcMgd.dll" />
-    <Content Include="ACDlls\AcWindows.dll" />
-    <Content Include="ACDlls\AdWindows.dll" />
+    <Content Include="AutoCADDlls\AcCoreMgd.dll" />
+    <Content Include="AutoCADDlls\AcCui.dll" />
+    <Content Include="AutoCADDlls\AcDbMgd.dll" />
+    <Content Include="AutoCADDlls\AcMgd.dll" />
+    <Content Include="AutoCADDlls\AcWindows.dll" />
+    <Content Include="AutoCADDlls\AdWindows.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\OneNote-For-AutoCAD\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\OneNote-For-AutoCAD\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
