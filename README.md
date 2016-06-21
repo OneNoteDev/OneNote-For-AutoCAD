@@ -45,3 +45,4 @@ To run the app you need to have following pre-requisites:
 ==================
 [![Demo video](https://raw.githubusercontent.com/OneNoteDev/OneNote-For-AutoCAD/master/Screenshot.png?token=AGIr-FeRzNDWiuTKglCnptRwu3invStVks5WO6bwwA%3D%3D)](https://screencast.autodesk.com/Embed/4126e149-e5f2-4597-a9e8-6fa9ccfb6d75)
 
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
